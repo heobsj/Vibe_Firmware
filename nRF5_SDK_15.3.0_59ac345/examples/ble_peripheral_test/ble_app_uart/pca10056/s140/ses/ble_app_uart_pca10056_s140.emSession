@@ -1,0 +1,101 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks>
+  <BookmarkItem objectName="" line="1132" column="0" path="C:/Users/zeste/Desktop/CEEDUP/develop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/examples/ble_peripheral_test/ble_app_uart/main.c" number="1" extra="void ctrlPower(int16_t bat_level)" color="5"/>
+  <BookmarkItem objectName="" line="812" column="4" path="C:/Users/zeste/Desktop/CEEDUP/develop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/examples/ble_peripheral_test/ble_app_uart/main.c" number="2" extra="void saadc_callback(nrf_drv_saadc_evt_t const * p_event)" color="5"/>
+ </Bookmarks>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <BreakpointListItem trigger="" line="228" counter="0" hardwareBreakpoint="" isFunctionBreakpoint="false" action="" expression="" group="Breakpoints" type="Breakpoint" state="4" filename="../../../../../../components/softdevice/s140/headers/ble_types.h" useHWbreakpoint="false"/>
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="ble_app_uart_pca10056_s140" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;Application"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;Board Definition"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;Board Support"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;None"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_BLE"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_BLE_Services"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_Drivers"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_Libraries"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_Log"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;nRF_SoftDevice"/>
+  <ProjectSessionItem path="ble_app_uart_pca10056_s140;ble_app_uart_pca10056_s140;Segger Startup Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="ble_app_uart_pca10056_s140" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="7395" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="7361" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="89" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="71" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="357" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/common/nrf_sdh.c" selected="0" top="318" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="306" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/common/nrf_sdh_ble.c" selected="0" top="258" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="85" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error.c" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="526" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_advertising/ble_advertising.c" selected="0" top="526" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="130" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/ble/ble_services/ble_nus/ble_nus.h" selected="0" top="122" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="55" useTextEdit="1" useBinaryEdit="0" left="0" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.20/include/stdint.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="702" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_twi.c" selected="0" top="670" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="104" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/board_util.h" selected="0" top="67" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="20" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/board_util.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="39" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/log/src/nrf_log_backend_rtt.c" selected="0" top="24" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="129" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/hal/nrf_saadc.h" selected="0" top="102" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="1257" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_util.h" selected="0" top="1215" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="156" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_twi.c" selected="0" top="124" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="252" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/twi_mngr/nrf_twi_mngr.c" selected="0" top="220" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="448" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/softdevice/s140/headers/nrf_nvic.h" selected="0" top="417" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="361" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/balloc/nrf_balloc.c" selected="0" top="330" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="82" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/nrf_calendar.c" selected="0" top="61" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="376" useTextEdit="1" useBinaryEdit="0" left="0" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.20/include/stdlib.h" selected="0" top="342" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="103" useTextEdit="1" useBinaryEdit="0" left="0" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.20/include/time.h" selected="0" top="69" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="58" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/sdk_common.h" selected="0" top="15" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="1241" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="1213" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="102" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/iis2dlpc.c" selected="0" top="77" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="64" useTextEdit="1" useBinaryEdit="0" left="0" path="C:/Program Files/SEGGER/SEGGER Embedded Studio for ARM 4.20/include/math.h" selected="0" top="39" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="ble_app_uart_pca10056_s140" fileDialogDefaultFilter="*.asm;*.s;*.inc" autoConnectTarget="J-Link" buildConfiguration="Release" sessionSettings="" debugSearchFileMap="../../../Include/arm_math.h&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/examples/ble_peripheral_test/ble_app_uart/arm_math.h&#xa;../ComplexMathFunctions/arm_cmplx_mag_f32.c&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/examples/ble_peripheral_test/ble_app_uart/arm_cmplx_mag_f32.c&#xa;../StatisticsFunctions/arm_max_f32.c&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/examples/ble_peripheral_test/ble_app_uart/arm_max_f32.c&#xa;../TransformFunctions/arm_bitreversal2.S&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/examples/ble_peripheral_test/ble_app_uart/arm_bitreversal2.S&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_clock.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_clock.c&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_gpiote.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_gpiote.c&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_ppi.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_ppi.c&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_saadc.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_saadc.c&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf52840.s&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf52840.s&#xa;C:/Users/user/Desktop/CPGuard/Develop/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf_common.s&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf_common.s&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/examples/ble_peripheral_test/ble_app_uart/main.c&#xa;&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_clock.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_clock.c&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_gpiote.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_gpiote.c&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_ppi.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_ppi.c&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_saadc.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_saadc.c&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_timer.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_timer.c&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf52840.s&#xa;&#xa;C:/Users/user/Desktop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/mdk/ses_startup_nrf_common.s&#xa;&#xa;C:/Users/zeste/Desktop/CEEDUP/develop/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_timer.c&#xa;C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src/nrfx_timer.c" fileDialogInitialDirectory="C:/Users/user/Desktop/CPGuard_Firmware/git/nRF52840-fw/nRF5_SDK_15.3.0_59ac345/modules/nrfx/drivers/src" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
